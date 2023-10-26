@@ -1,12 +1,225 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "featured": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "socomment",
+      "relatedIds": [
+        3,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 3,
+      "title": "Post 4",
+      "body": "socomment",
+      "relatedIds": [
+        1,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "socomment",
+      "relatedIds": [
+        1,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 5,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        2,
+        3
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 6,
+      "title": "Post 454",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 7,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        8,
+        9
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 8,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        7
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 9,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        7,
+        10
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 10,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "latest": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "socomment",
+      "relatedIds": [
+        3,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 3,
+      "title": "Post 4",
+      "body": "socomment",
+      "relatedIds": [
+        1,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "socomment",
+      "relatedIds": [
+        1,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 5,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        2,
+        3
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 6,
+      "title": "Post 454",
+      "body": "socomment",
+      "relatedIds": [
+        4,
+        5
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 7,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        8,
+        9
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 8,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        7
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 9,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        7,
+        10
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    },
+    {
+      "id": 10,
+      "title": "Post 12",
+      "body": "socomment",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 2,
+      "readAt": ""
+    }
   ],
   "profile": {
     "name": "typicode"
