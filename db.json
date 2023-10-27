@@ -1,227 +1,178 @@
 {
-  "featured": [
+  "news": [
     {
       "id": 1,
-      "title": "Post 1",
-      "body": "socomment",
+      "title": "Byte and beat",
+      "body": "Before the waiter brought the sherry the rocket that announced the fiesta went up in the square. It burst and there was a gray ball of smoke high up above the Theatre Gayarre, across on the other side of the plaza. The ball of smoke hung in the sky like a shrapnel burst, and as I watched, another rocket came up to it, trickling smoke in the bright sunlight. I saw the bright f",
       "relatedIds": [
         4,
         5
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "body": "socomment",
+      "title": "dfgsd fghjghj",
+      "body": "et, and when the reed-pipes and the fifes shrilled, and the flat, dry, hollow drums tapped it out again, they all went up in the air dancing. In the crowd you saw only the heads and ",
       "relatedIds": [
         3,
         5
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 3,
-      "title": "Post 4",
-      "body": "socomment",
+      "title": "Yes, we can",
+      "body": "Where are the foreigners? Robert Cohn asked",
       "relatedIds": [
         1,
         5
       ],
-      "categoryId": 2,
-      "readAt": ""
+      "categoryId": 3,
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "body": "socomment",
+      "title": "sdfgf gjfhj",
+      "body": "The fiesta was really started. It kept up day and night for seven days. The dancing kept up, the drinking kept up, the noise went on. The things that happened could only have happened during a fiesta. Everything became quite unreal finally and it seemed as though nothing could have any consequences. It seemed out of place to think of consequences during ",
       "relatedIds": [
         1,
         5
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 5,
-      "title": "Post 12",
-      "body": "socomment",
+      "title": "Concession",
+      "body": "el into town. The street was lined on both sides with people keeping their place at the curb for the return of the procession. Some dancers formed a circle around Brett and started to dance. They wore big wreaths of white garlics around their necks. They took Bill and me by the arms and put us in the circle. Bill started to dance, too. They were all chanting. Brett wanted to d",
       "relatedIds": [
         4,
         2,
         3
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 6,
-      "title": "Post 454",
-      "body": "socomment",
+      "title": "Posdgsst afsdsgsdf",
+      "body": "Inside it smelled of fresh tanned leather and hot tar. A man was stencilling completed wine-skins. They hung from the roof in bunches. He took one down, blew it up, screwed the nozzle tight, and then jumped on it",
       "relatedIds": [
         4,
         5
       ],
-      "categoryId": 2,
-      "readAt": ""
+      "categoryId": 3,
+      "readAt": "",
+      "isFeatured": true
     },
     {
       "id": 7,
-      "title": "Post 12",
-      "body": "socomment",
+      "title": "asasdnj sddffg",
+      "body": "I paid and went out and along the street back to the wine-shop. It was darker than ever inside and very crowded. I did not see Brett and Bill, and some one said they were in the back room. At the counter the girl filled the two wine-skins for me. One held two litres. The other held five litres. Filling them both cost three pesetas sixty centimos. Some on",
       "relatedIds": [
         8,
         9
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": false
     },
     {
       "id": 8,
-      "title": "Post 12",
-      "body": "socomment",
+      "title": "iphone 15",
+      "body": "In the back room Brett and Bill were sitting on barrels surrounded by the dancers. Everybody had his arms on everybody else's shoulders, and they were all singing. Mike was sitting at a table with several men in their shirt-sleeves, eating from a bowl of tuna fish, chopped onions and vinegar. They were all drinking wine and mopping up the oil and vinegar with pieces of bread.",
       "relatedIds": [
         7
       ],
-      "categoryId": 2,
-      "readAt": ""
+      "categoryId": 1,
+      "readAt": "",
+      "isFeatured": true
     },
     {
       "id": 9,
-      "title": "Post 12",
-      "body": "socomment",
+      "title": "Hes passed out, Brett called. They've put him away somewhere.",
+      "body": "I don't know, Mike said. Ill",
       "relatedIds": [
         7,
         10
       ],
-      "categoryId": 2,
-      "readAt": ""
+      "categoryId": 4,
+      "readAt": "",
+      "isFeatured": true
     },
     {
       "id": 10,
-      "title": "Post 12",
-      "body": "socomment",
+      "title": "music man",
+      "body": "Going down the dark streets to the hotel we saw the sky-rockets going up in the square. Down the side streets that led to the square we saw the square solid with people, those in the centre all dancing.",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 1,
+      "readAt": "",
+      "isFeatured": true
+    },
+    {
+      "id": 11,
+      "title": "Post fsdvgds",
+      "body": "It was a big meal at the hotel. It was the first meal of the prices being doubled for the fiesta, and there were several new courses. After the dinner we were out in the town. I remember resolving that I would stay up all night to watch the bulls go through the streets at six o'clock in the morning, and being so sleepy that I went to bed around four o'clock. The others stayed up.",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 1,
+      "readAt": "",
+      "isFeatured": true
+    },
+    {
+      "id": 12,
+      "title": "sdfsd slkgsdg",
+      "body": "It was a big meal at the hotel. It was the first meal of the prices being doubled for the fiesta, and there were several new courses. After the dinner we were out in the town. I remember resolving that I would stay up all night to watch the bulls go through the streets at six o'clock in the morning, and being so sleepy that I went to bed around four o'clock. The others stayed up.",
       "relatedIds": [
         9
       ],
       "categoryId": 2,
-      "readAt": ""
+      "readAt": "",
+      "isFeatured": true
+    },
+    {
+      "id": 13,
+      "title": "news news news",
+      "body": "Outside the ring, after the bull-fight was over, you could not move in the crowd. We could not make our way through but had to be moved with the whole thing, slowly, as a glacier, back to town. We had that disturbed emotional feeling that always comes after a bull-fight, and the feeling of elation that comes after a good bull-fight. The fiesta was going on. The drums pounded and the pipe music was shrill, and everywhere the flow of the crowd was broken by patches of dancers. The dancers were in a cro",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 4,
+      "readAt": "",
+      "isFeatured": true
+    },
+    {
+      "id": 14,
+      "title": "Post 12",
+      "body": "It was a big meal at the hotel. It was the first meal of the prices being doubled for the fiesta, and there were several new courses. After the dinner we were out in the town. I remember resolving that I would stay up all night to watch the bulls go through the streets at six o'clock in the morning, and being so sleepy that I went to bed around four o'clock. The others stayed up.",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 3,
+      "readAt": "e edge of town. They would race through the streets and out to the bull-ring. I had been sleeping heavily and I woke feeling I was too late. I put on a coat of Cohn's and went out on the balcony. Down below the narrow street was empty. All the balconies were crowded with people. Suddenly a crowd came down the street. They were all running, packed",
+      "isFeatured": true
+    },
+    {
+      "id": 15,
+      "title": "He looks like a torero, Montoya said. He has the typ",
+      "body": "the ring and into the corrals. I went back in the room and got into bed. I had been standing on the stone balcony in bare feet. I knew our crowd must have all been out at the bull-ring. Back in bed, I went to slee",
+      "relatedIds": [
+        9
+      ],
+      "categoryId": 3,
+      "readAt": "",
+      "isFeatured": true
     }
-  ],
-  "latest": [
-    {
-      "id": 1,
-      "title": "Post 1",
-      "body": "socomment",
-      "relatedIds": [
-        4,
-        5
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "body": "socomment",
-      "relatedIds": [
-        3,
-        5
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 3,
-      "title": "Post 4",
-      "body": "socomment",
-      "relatedIds": [
-        1,
-        5
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 4,
-      "title": "Post 4",
-      "body": "socomment",
-      "relatedIds": [
-        1,
-        5
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 5,
-      "title": "Post 12",
-      "body": "socomment",
-      "relatedIds": [
-        4,
-        2,
-        3
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 6,
-      "title": "Post 454",
-      "body": "socomment",
-      "relatedIds": [
-        4,
-        5
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 7,
-      "title": "Post 12",
-      "body": "socomment",
-      "relatedIds": [
-        8,
-        9
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 8,
-      "title": "Post 12",
-      "body": "socomment",
-      "relatedIds": [
-        7
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 9,
-      "title": "Post 12",
-      "body": "socomment",
-      "relatedIds": [
-        7,
-        10
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    },
-    {
-      "id": 10,
-      "title": "Post 12",
-      "body": "socomment",
-      "relatedIds": [
-        9
-      ],
-      "categoryId": 2,
-      "readAt": ""
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
